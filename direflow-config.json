@@ -1,0 +1,6 @@
+{
+  "build": {
+    "componentPath": "spotlight-search",
+    "filename": "direflowBundle.js"
+  }
+}
